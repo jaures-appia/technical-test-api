@@ -8,4 +8,4 @@ npm install
 
 # Start the app in development mode
 
-node server.js the in current project
+do node server.js in the current project
