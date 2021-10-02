@@ -1,7 +1,8 @@
-# technical-test-api
+# install the dependencies
 
-# install dependencie
-
+require nodejs and npm
 npm install
 
-# 
+# Start the app in development mode
+
+node server.js the in current project
