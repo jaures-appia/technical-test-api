@@ -1,6 +1,9 @@
-# install the dependencies
+# require
 
 require nodejs and npm
+
+# install the dependencies
+
 npm install
 
 # Start the app in development mode
